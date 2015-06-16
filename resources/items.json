@@ -1,2127 +1,2127 @@
 [
     {
-        "icon": "//space.ark-survival.net/icons/1.png",
+        "icon": "/resources/items/1.png",
         "id": 1,
         "name": "Simple Pistol",
         "type": "Weapon",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/2.png",
+        "icon": "/resources/items/2.png",
         "id": 2,
         "name": "Assault Rifle",
         "type": "Weapon",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/3.png",
+        "icon": "/resources/items/3.png",
         "id": 3,
         "name": "Rocket Launcher",
         "type": "Weapon",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/4.png",
+        "icon": "/resources/items/4.png",
         "id": 4,
         "name": "Simple Bullet",
         "type": "Ammo",
         "stack": 50
     },
     {
-        "icon": "//space.ark-survival.net/icons/5.png",
+        "icon": "/resources/items/5.png",
         "id": 5,
         "name": "Bow(Stone Arrow)",
         "type": "Weapon",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/6.png",
+        "icon": "/resources/items/6.png",
         "id": 6,
         "name": "Grenade",
         "type": "Weapon",
         "stack": 10
     },
     {
-        "icon": "//space.ark-survival.net/icons/7.png",
+        "icon": "/resources/items/7.png",
         "id": 7,
         "name": "Wood",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/8.png",
+        "icon": "/resources/items/8.png",
         "id": 8,
         "name": "Stone",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/9.png",
+        "icon": "/resources/items/9.png",
         "id": 9,
         "name": "Metal",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/10.png",
+        "icon": "/resources/items/10.png",
         "id": 10,
         "name": "Hide",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/11.png",
+        "icon": "/resources/items/11.png",
         "id": 11,
         "name": "Chitin",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/12.png",
+        "icon": "/resources/items/12.png",
         "id": 12,
         "name": "Raw Meat",
         "type": "Food",
         "stack": 20
     },
     {
-        "icon": "//space.ark-survival.net/icons/13.png",
+        "icon": "/resources/items/13.png",
         "id": 13,
         "name": "Spoiled Meat",
         "type": "Food",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/14.png",
+        "icon": "/resources/items/14.png",
         "id": 14,
         "name": "Cooked Meat",
         "type": "Food",
         "stack": 30
     },
     {
-        "icon": "//space.ark-survival.net/icons/15.png",
+        "icon": "/resources/items/15.png",
         "id": 15,
         "name": "Water Jar(Empty)",
         "type": "Tool",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/16.png",
+        "icon": "/resources/items/16.png",
         "id": 16,
         "name": "Water Jar(Full)",
         "type": "Tool",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/17.png",
+        "icon": "/resources/items/17.png",
         "id": 17,
         "name": "Cloth Pants",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/18.png",
+        "icon": "/resources/items/18.png",
         "id": 18,
         "name": "Cloth Shirt",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/19.png",
+        "icon": "/resources/items/19.png",
         "id": 19,
         "name": "Cloth Hat",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/20.png",
+        "icon": "/resources/items/20.png",
         "id": 20,
         "name": "Cloth Boots",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/21.png",
+        "icon": "/resources/items/21.png",
         "id": 21,
         "name": "Cloth Gloves",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/22.png",
+        "icon": "/resources/items/22.png",
         "id": 22,
         "name": "Hide Pants",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/23.png",
+        "icon": "/resources/items/23.png",
         "id": 23,
         "name": "Hide Shirt",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/24.png",
+        "icon": "/resources/items/24.png",
         "id": 24,
         "name": "Hide Hat",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/25.png",
+        "icon": "/resources/items/25.png",
         "id": 25,
         "name": "Hide Boots",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/26.png",
+        "icon": "/resources/items/26.png",
         "id": 26,
         "name": "Hide Gloves",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/27.png",
+        "icon": "/resources/items/27.png",
         "id": 27,
         "name": "Chitin Leggings",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/28.png",
+        "icon": "/resources/items/28.png",
         "id": 28,
         "name": "Chitin Chestpiece",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/29.png",
+        "icon": "/resources/items/29.png",
         "id": 29,
         "name": "Chitin Helmet",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/30.png",
+        "icon": "/resources/items/30.png",
         "id": 30,
         "name": "Chitin Boots",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/31.png",
+        "icon": "/resources/items/31.png",
         "id": 31,
         "name": "Chitin Gauntlets",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/32.png",
+        "icon": "/resources/items/32.png",
         "id": 32,
         "name": "Stone Arrow",
         "type": "Ammo",
         "stack": 50
     },
     {
-        "icon": "//space.ark-survival.net/icons/33.png",
+        "icon": "/resources/items/33.png",
         "id": 33,
         "name": "Stone Pick",
         "type": "Tool",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/34.png",
+        "icon": "/resources/items/34.png",
         "id": 34,
         "name": "Stone Hatchet",
         "type": "Tool",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/35.png",
+        "icon": "/resources/items/35.png",
         "id": 35,
         "name": "Metal Pick",
         "type": "Tool",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/36.png",
+        "icon": "/resources/items/36.png",
         "id": 36,
         "name": "Metal Hatchet",
         "type": "Tool",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/37.png",
+        "icon": "/resources/items/37.png",
         "id": 37,
         "name": "Torch",
         "type": "Tool",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/38.png",
+        "icon": "/resources/items/38.png",
         "id": 38,
         "name": "Paintbrush",
         "type": "Tool",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/39.png",
+        "icon": "/resources/items/39.png",
         "id": 39,
         "name": "Campfire",
         "type": "Structure",
         "stack": 3
     },
     {
-        "icon": "//space.ark-survival.net/icons/40.png",
+        "icon": "/resources/items/40.png",
         "id": 40,
         "name": "Standing Torch",
         "type": "Structure",
         "stack": 3
     },
     {
-        "icon": "//space.ark-survival.net/icons/41.png",
+        "icon": "/resources/items/41.png",
         "id": 41,
         "name": "Hide Sleeping Bag",
         "type": "Structure",
         "stack": 3
     },
     {
-        "icon": "//space.ark-survival.net/icons/42.png",
+        "icon": "/resources/items/42.png",
         "id": 42,
         "name": "C4 Remote Detonator",
         "type": "Weapon",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/43.png",
+        "icon": "/resources/items/43.png",
         "id": 43,
         "name": "C4 Charge",
         "type": "Ammo",
         "stack": 50
     },
     {
-        "icon": "//space.ark-survival.net/icons/44.png",
+        "icon": "/resources/items/44.png",
         "id": 44,
         "name": "Blood Extraction Syringe",
         "type": "Tool",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/45.png",
+        "icon": "/resources/items/45.png",
         "id": 45,
         "name": "Blood Pack",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/46.png",
+        "icon": "/resources/items/46.png",
         "id": 46,
         "name": "Improvised Explosive Device",
         "type": "Weapon",
         "stack": 10
     },
     {
-        "icon": "//space.ark-survival.net/icons/47.png",
+        "icon": "/resources/items/47.png",
         "id": 47,
         "name": "WaterSkin(Image1)",
         "type": "Tool",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/48.png",
+        "icon": "/resources/items/48.png",
         "id": 48,
         "name": "WaterSkin(Image2)",
         "type": "Tool",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/49.png",
+        "icon": "/resources/items/49.png",
         "id": 49,
         "name": "Berry Bush Seeds",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/50.png",
+        "icon": "/resources/items/50.png",
         "id": 50,
         "name": "Fertilizer",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/51.png",
+        "icon": "/resources/items/51.png",
         "id": 51,
         "name": "Bingleberry Soup",
         "type": "Food",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/52.png",
+        "icon": "/resources/items/52.png",
         "id": 52,
         "name": "Medical Brew",
         "type": "Food",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/53.png",
+        "icon": "/resources/items/53.png",
         "id": 53,
         "name": "Energy Brew",
         "type": "Food",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/54.png",
+        "icon": "/resources/items/54.png",
         "id": 54,
         "name": "Small Dinosaur Feces",
         "type": "Misc",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/55.png",
+        "icon": "/resources/items/55.png",
         "id": 55,
         "name": "Human Feces",
         "type": "Misc",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/56.png",
+        "icon": "/resources/items/56.png",
         "id": 56,
         "name": "Stegosaurus Egg",
         "type": "Egg",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/57.png",
+        "icon": "/resources/items/57.png",
         "id": 57,
         "name": "Spear",
         "type": "Weapon",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/58.png",
+        "icon": "/resources/items/58.png",
         "id": 58,
         "name": "Red Coloring",
         "type": "Dye",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/59.png",
+        "icon": "/resources/items/59.png",
         "id": 59,
         "name": "Green Coloring",
         "type": "Dye",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/60.png",
+        "icon": "/resources/items/60.png",
         "id": 60,
         "name": "Blue Coloring",
         "type": "Dye",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/61.png",
+        "icon": "/resources/items/61.png",
         "id": 61,
         "name": "Yellow Coloring",
         "type": "Dye",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/62.png",
+        "icon": "/resources/items/62.png",
         "id": 62,
         "name": "Purple Coloring",
         "type": "Dye",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/63.png",
+        "icon": "/resources/items/63.png",
         "id": 63,
         "name": "Orange Coloring",
         "type": "Dye",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/64.png",
+        "icon": "/resources/items/64.png",
         "id": 64,
         "name": "Black Coloring",
         "type": "Dye",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/65.png",
+        "icon": "/resources/items/65.png",
         "id": 65,
         "name": "White Coloring",
         "type": "Dye",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/66.png",
+        "icon": "/resources/items/66.png",
         "id": 66,
         "name": "Brown Coloring",
         "type": "Dye",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/67.png",
+        "icon": "/resources/items/67.png",
         "id": 67,
         "name": "Cyan Coloring",
         "type": "Dye",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/68.png",
+        "icon": "/resources/items/68.png",
         "id": 68,
         "name": "Purple Coloring",
         "type": "Dye",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/69.png",
+        "icon": "/resources/items/69.png",
         "id": 69,
         "name": "Rex Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/70.png",
+        "icon": "/resources/items/70.png",
         "id": 70,
         "name": "Tranq Arrow",
         "type": "Ammo",
         "stack": 50
     },
     {
-        "icon": "//space.ark-survival.net/icons/71.png",
+        "icon": "/resources/items/71.png",
         "id": 71,
         "name": "Pistol Hat Skin",
         "type": "Skin",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/72.png",
+        "icon": "/resources/items/72.png",
         "id": 72,
         "name": "GPS",
         "type": "Tool",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/73.png",
+        "icon": "/resources/items/73.png",
         "id": 73,
         "name": "Flint",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/74.png",
+        "icon": "/resources/items/74.png",
         "id": 74,
         "name": "Metal Ingot",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/75.png",
+        "icon": "/resources/items/75.png",
         "id": 75,
         "name": "Thatch",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/76.png",
+        "icon": "/resources/items/76.png",
         "id": 76,
         "name": "Fiber",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/77.png",
+        "icon": "/resources/items/77.png",
         "id": 77,
         "name": "Charcoal",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/78.png",
+        "icon": "/resources/items/78.png",
         "id": 78,
         "name": "Crystal",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/79.png",
+        "icon": "/resources/items/79.png",
         "id": 79,
         "name": "Thatch Roof",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/80.png",
+        "icon": "/resources/items/80.png",
         "id": 80,
         "name": "Thatch Door",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/81.png",
+        "icon": "/resources/items/81.png",
         "id": 81,
         "name": "Thatch Foundation",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/82.png",
+        "icon": "/resources/items/82.png",
         "id": 82,
         "name": "Thatch Wall",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/83.png",
+        "icon": "/resources/items/83.png",
         "id": 83,
         "name": "Thatch Doorframe",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/84.png",
+        "icon": "/resources/items/84.png",
         "id": 84,
         "name": "Wooden Catwalk",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/85.png",
+        "icon": "/resources/items/85.png",
         "id": 85,
         "name": "Wooden Ceiling",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/86.png",
+        "icon": "/resources/items/86.png",
         "id": 86,
         "name": "Wooden HatchFrame",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/87.png",
+        "icon": "/resources/items/87.png",
         "id": 87,
         "name": "Wooden Door",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/88.png",
+        "icon": "/resources/items/88.png",
         "id": 88,
         "name": "Wooden Foundation",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/89.png",
+        "icon": "/resources/items/89.png",
         "id": 89,
         "name": "Wooden Ladder",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/90.png",
+        "icon": "/resources/items/90.png",
         "id": 90,
         "name": "Wooden Pillar",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/91.png",
+        "icon": "/resources/items/91.png",
         "id": 91,
         "name": "Wooden Ramp",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/92.png",
+        "icon": "/resources/items/92.png",
         "id": 92,
         "name": "Wooden TrapDoor",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/93.png",
+        "icon": "/resources/items/93.png",
         "id": 93,
         "name": "Wooden Wall",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/94.png",
+        "icon": "/resources/items/94.png",
         "id": 94,
         "name": "Wooden Doorframe",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/95.png",
+        "icon": "/resources/items/95.png",
         "id": 95,
         "name": "Wooden WindowFrame",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/96.png",
+        "icon": "/resources/items/96.png",
         "id": 96,
         "name": "Wooden Window",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/97.png",
+        "icon": "/resources/items/97.png",
         "id": 97,
         "name": "Wooden Sign",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/98.png",
+        "icon": "/resources/items/98.png",
         "id": 98,
         "name": "BluePrint: Note",
         "type": "Blueprint",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/99.png",
+        "icon": "/resources/items/99.png",
         "id": 99,
         "name": "Citronal",
         "type": "Consumable",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/100.png",
+        "icon": "/resources/items/100.png",
         "id": 100,
         "name": "Parasaur Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/101.png",
+        "icon": "/resources/items/101.png",
         "id": 101,
         "name": "Raptor Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/102.png",
+        "icon": "/resources/items/102.png",
         "id": 102,
         "name": "Stego Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/103.png",
+        "icon": "/resources/items/103.png",
         "id": 103,
         "name": "Trike Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/104.png",
+        "icon": "/resources/items/104.png",
         "id": 104,
         "name": "Pulmonoscorpius Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/105.png",
+        "icon": "/resources/items/105.png",
         "id": 105,
         "name": "Storage Box",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/106.png",
+        "icon": "/resources/items/106.png",
         "id": 106,
         "name": "Large Storage Box",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/107.png",
+        "icon": "/resources/items/107.png",
         "id": 107,
         "name": "Mortar and Pestle",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/108.png",
+        "icon": "/resources/items/108.png",
         "id": 108,
         "name": "Sparkpowder",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/109.png",
+        "icon": "/resources/items/109.png",
         "id": 109,
         "name": "Gunpowder",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/110.png",
+        "icon": "/resources/items/110.png",
         "id": 110,
         "name": "Stone Irrigation Pipe – Intake",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/111.png",
+        "icon": "/resources/items/111.png",
         "id": 111,
         "name": "Stone Irrigation Pipe – Straight",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/112.png",
+        "icon": "/resources/items/112.png",
         "id": 112,
         "name": "Stone Irrigation Pipe – Inclined",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/113.png",
+        "icon": "/resources/items/113.png",
         "id": 113,
         "name": "Stone Irrigation Pipe – Intersection",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/114.png",
+        "icon": "/resources/items/114.png",
         "id": 114,
         "name": "Stone Irrigation Pipe – Vertical",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/115.png",
+        "icon": "/resources/items/115.png",
         "id": 115,
         "name": "Stone Irrigation Pipe – Tap",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/116.png",
+        "icon": "/resources/items/116.png",
         "id": 116,
         "name": "Amarberry Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/117.png",
+        "icon": "/resources/items/117.png",
         "id": 117,
         "name": "Amarberry",
         "type": "Consumable",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/118.png",
+        "icon": "/resources/items/118.png",
         "id": 118,
         "name": "Azulberry",
         "type": "Consumable",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/119.png",
+        "icon": "/resources/items/119.png",
         "id": 119,
         "name": "Tintoberry",
         "type": "Consumable",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/120.png",
+        "icon": "/resources/items/120.png",
         "id": 120,
         "name": "Mejoberry",
         "type": "Consumable",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/121.png",
+        "icon": "/resources/items/121.png",
         "id": 121,
         "name": "Narcoberry",
         "type": "Consumable",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/122.png",
+        "icon": "/resources/items/122.png",
         "id": 122,
         "name": "Stimberry",
         "type": "Consumable",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/123.png",
+        "icon": "/resources/items/123.png",
         "id": 123,
         "name": "Narcotic",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/124.png",
+        "icon": "/resources/items/124.png",
         "id": 124,
         "name": "Stimulant",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/125.png",
+        "icon": "/resources/items/125.png",
         "id": 125,
         "name": "Refining Forge",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/126.png",
+        "icon": "/resources/items/126.png",
         "id": 126,
         "name": "Smithy",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/127.png",
+        "icon": "/resources/items/127.png",
         "id": 127,
         "name": "Compost Bin",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/128.png",
+        "icon": "/resources/items/128.png",
         "id": 128,
         "name": "Cooking Pot",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/129.png",
+        "icon": "/resources/items/129.png",
         "id": 129,
         "name": "Simple Bed",
         "type": "Structure",
         "stack": 3
     },
     {
-        "icon": "//space.ark-survival.net/icons/130.png",
+        "icon": "/resources/items/130.png",
         "id": 130,
         "name": "Small Crop Plot",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/131.png",
+        "icon": "/resources/items/131.png",
         "id": 131,
         "name": "Pteranodon Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/132.png",
+        "icon": "/resources/items/132.png",
         "id": 132,
         "name": "Longneck Rifle",
         "type": "Weapon",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/133.png",
+        "icon": "/resources/items/133.png",
         "id": 133,
         "name": "Citronal Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/134.png",
+        "icon": "/resources/items/134.png",
         "id": 134,
         "name": "Specimen Implant",
         "type": "Misc",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/135.png",
+        "icon": "/resources/items/135.png",
         "id": 135,
         "name": "Bronto Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/136.png",
+        "icon": "/resources/items/136.png",
         "id": 136,
         "name": "Wooden Fence Foundation",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/137.png",
+        "icon": "/resources/items/137.png",
         "id": 137,
         "name": "Compass",
         "type": "Tool",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/138.png",
+        "icon": "/resources/items/138.png",
         "id": 138,
         "name": "Scope Attachment",
         "type": "Attachment",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/139.png",
+        "icon": "/resources/items/139.png",
         "id": 139,
         "name": "Slingshot",
         "type": "Weapon",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/140.png",
+        "icon": "/resources/items/140.png",
         "id": 140,
         "name": "Pike",
         "type": "Weapon",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/141.png",
+        "icon": "/resources/items/141.png",
         "id": 141,
         "name": "Radio",
         "type": "Tool",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/142.png",
+        "icon": "/resources/items/142.png",
         "id": 142,
         "name": "Obsidian",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/143.png",
+        "icon": "/resources/items/143.png",
         "id": 143,
         "name": "Dinosaur Gateway",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/144.png",
+        "icon": "/resources/items/144.png",
         "id": 144,
         "name": "Simple Rifle Ammo",
         "type": "Ammo",
         "stack": 50
     },
     {
-        "icon": "//space.ark-survival.net/icons/145.png",
+        "icon": "/resources/items/145.png",
         "id": 145,
         "name": "Summon Broodmother",
         "type": "Mission",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/146.png",
+        "icon": "/resources/items/146.png",
         "id": 146,
         "name": "Cementing Paste",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/147.png",
+        "icon": "/resources/items/147.png",
         "id": 147,
         "name": "Dinosaur Gate",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/148.png",
+        "icon": "/resources/items/148.png",
         "id": 148,
         "name": "Artifact Of The Hunter",
         "type": "Mission",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/149.png",
+        "icon": "/resources/items/149.png",
         "id": 149,
         "name": "Artifact Of The Pack",
         "type": "Mission",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/150.png",
+        "icon": "/resources/items/150.png",
         "id": 150,
         "name": "Artifact Of The Massive",
         "type": "Mission",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/151.png",
+        "icon": "/resources/items/151.png",
         "id": 151,
         "name": "Artifact Of The Devious",
         "type": "Mission",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/152.png",
+        "icon": "/resources/items/152.png",
         "id": 152,
         "name": "Artifact Of The Clever",
         "type": "Mission",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/153.png",
+        "icon": "/resources/items/153.png",
         "id": 153,
         "name": "Artifact Of The Skylord",
         "type": "Mission",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/154.png",
+        "icon": "/resources/items/154.png",
         "id": 154,
         "name": "Artifact Of The Devourer",
         "type": "Mission",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/155.png",
+        "icon": "/resources/items/155.png",
         "id": 155,
         "name": "Artifact Of The Queen",
         "type": "Mission",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/156.png",
+        "icon": "/resources/items/156.png",
         "id": 156,
         "name": "Artifact Of The Strong",
         "type": "Mission",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/157.png",
+        "icon": "/resources/items/157.png",
         "id": 157,
         "name": "Artifact Of The Flamekeeper",
         "type": "Mission",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/158.png",
+        "icon": "/resources/items/158.png",
         "id": 158,
         "name": "Argentavis Talon",
         "type": "Mission",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/159.png",
+        "icon": "/resources/items/159.png",
         "id": 159,
         "name": "Megalodon Tooth",
         "type": "Mission",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/160.png",
+        "icon": "/resources/items/160.png",
         "id": 160,
         "name": "Tyrannosaurus Arm",
         "type": "Mission",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/161.png",
+        "icon": "/resources/items/161.png",
         "id": 161,
         "name": "Sauropod Vertebra",
         "type": "Mission",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/162.png",
+        "icon": "/resources/items/162.png",
         "id": 162,
         "name": "Oil",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/163.png",
+        "icon": "/resources/items/163.png",
         "id": 163,
         "name": "Silica Pearls",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/164.png",
+        "icon": "/resources/items/164.png",
         "id": 164,
         "name": "Gasoline",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/165.png",
+        "icon": "/resources/items/165.png",
         "id": 165,
         "name": "Electronics",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/166.png",
+        "icon": "/resources/items/166.png",
         "id": 166,
         "name": "Polymer",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/167.png",
+        "icon": "/resources/items/167.png",
         "id": 167,
         "name": "Metal Catwalk",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/168.png",
+        "icon": "/resources/items/168.png",
         "id": 168,
         "name": "Metal Ceiling",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/169.png",
+        "icon": "/resources/items/169.png",
         "id": 169,
         "name": "Metal Hatchframe",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/170.png",
+        "icon": "/resources/items/170.png",
         "id": 170,
         "name": "Metal Door",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/171.png",
+        "icon": "/resources/items/171.png",
         "id": 171,
         "name": "Metal Fence Foundation",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/172.png",
+        "icon": "/resources/items/172.png",
         "id": 172,
         "name": "Metal Foundation",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/173.png",
+        "icon": "/resources/items/173.png",
         "id": 173,
         "name": "Behemoth Gate",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/174.png",
+        "icon": "/resources/items/174.png",
         "id": 174,
         "name": "Behemoth Gateway",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/175.png",
+        "icon": "/resources/items/175.png",
         "id": 175,
         "name": "Metal Ladder",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/176.png",
+        "icon": "/resources/items/176.png",
         "id": 176,
         "name": "Metal Pillar",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/177.png",
+        "icon": "/resources/items/177.png",
         "id": 177,
         "name": "Metal Ramp",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/178.png",
+        "icon": "/resources/items/178.png",
         "id": 178,
         "name": "Metal Trapdoor",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/179.png",
+        "icon": "/resources/items/179.png",
         "id": 179,
         "name": "Metal Wall",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/180.png",
+        "icon": "/resources/items/180.png",
         "id": 180,
         "name": "Metal Doorframe",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/181.png",
+        "icon": "/resources/items/181.png",
         "id": 181,
         "name": "Metal Windowframe",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/182.png",
+        "icon": "/resources/items/182.png",
         "id": 182,
         "name": "Metal Window",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/183.png",
+        "icon": "/resources/items/183.png",
         "id": 183,
         "name": "Super Test Meat(Raw)",
         "type": "Consumable",
         "stack": 20
     },
     {
-        "icon": "//space.ark-survival.net/icons/184.png",
+        "icon": "/resources/items/184.png",
         "id": 184,
         "name": "Flare Gun",
         "type": "Weapon",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/185.png",
+        "icon": "/resources/items/185.png",
         "id": 185,
         "name": "Fabricator",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/186.png",
+        "icon": "/resources/items/186.png",
         "id": 186,
         "name": "Water Tank",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/187.png",
+        "icon": "/resources/items/187.png",
         "id": 187,
         "name": "Parachute",
         "type": "Misc",
         "stack": 20
     },
     {
-        "icon": "//space.ark-survival.net/icons/188.png",
+        "icon": "/resources/items/188.png",
         "id": 188,
         "name": "Air Conditioner",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/189.png",
+        "icon": "/resources/items/189.png",
         "id": 189,
         "name": "Electrical Generator",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/190.png",
+        "icon": "/resources/items/190.png",
         "id": 190,
         "name": "Electrical Outlet",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/191.png",
+        "icon": "/resources/items/191.png",
         "id": 191,
         "name": "Inclined Electrical Cable",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/192.png",
+        "icon": "/resources/items/192.png",
         "id": 192,
         "name": "Electrical Cable Intersection",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/193.png",
+        "icon": "/resources/items/193.png",
         "id": 193,
         "name": "Straight Electrical Cable",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/194.png",
+        "icon": "/resources/items/194.png",
         "id": 194,
         "name": "Vertical Electrical Cable",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/195.png",
+        "icon": "/resources/items/195.png",
         "id": 195,
         "name": "Lamppost",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/196.png",
+        "icon": "/resources/items/196.png",
         "id": 196,
         "name": "Refrigerator",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/197.png",
+        "icon": "/resources/items/197.png",
         "id": 197,
         "name": "Auto Turret",
         "type": "Structure",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/198.png",
+        "icon": "/resources/items/198.png",
         "id": 198,
         "name": "Remote Keypad",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/199.png",
+        "icon": "/resources/items/199.png",
         "id": 199,
         "name": "Metal Irrigation Pipe – Inclined",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/200.png",
+        "icon": "/resources/items/200.png",
         "id": 200,
         "name": "Metal Irrigation Pipe – Tap(Intake)",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/201.png",
+        "icon": "/resources/items/201.png",
         "id": 201,
         "name": "Metal Irrigation Pipe – Intersection",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/202.png",
+        "icon": "/resources/items/202.png",
         "id": 202,
         "name": "Metal Irrigation Pipe – Straight",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/203.png",
+        "icon": "/resources/items/203.png",
         "id": 203,
         "name": "Metal Irrigation Pipe – Tap",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/204.png",
+        "icon": "/resources/items/204.png",
         "id": 204,
         "name": "Metal Irrigation Pipe – Vertical",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/205.png",
+        "icon": "/resources/items/205.png",
         "id": 205,
         "name": "Flashlight Attachment",
         "type": "Attachment",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/206.png",
+        "icon": "/resources/items/206.png",
         "id": 206,
         "name": "Silencer Attachment",
         "type": "Attachment",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/207.png",
+        "icon": "/resources/items/207.png",
         "id": 207,
         "name": "Carbonemys Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/208.png",
+        "icon": "/resources/items/208.png",
         "id": 208,
         "name": "Sarco Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/209.png",
+        "icon": "/resources/items/209.png",
         "id": 209,
         "name": "Anklyo Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/210.png",
+        "icon": "/resources/items/210.png",
         "id": 210,
         "name": "Mammoth Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/211.png",
+        "icon": "/resources/items/211.png",
         "id": 211,
         "name": "Megalodon Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/212.png",
+        "icon": "/resources/items/212.png",
         "id": 212,
         "name": "Sabertooth Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/213.png",
+        "icon": "/resources/items/213.png",
         "id": 213,
         "name": "Carno Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/214.png",
+        "icon": "/resources/items/214.png",
         "id": 214,
         "name": "Argentavis Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/215.png",
+        "icon": "/resources/items/215.png",
         "id": 215,
         "name": "Plesiasaur Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/216.png",
+        "icon": "/resources/items/216.png",
         "id": 216,
         "name": "Chitin/Keratin",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/217.png",
+        "icon": "/resources/items/217.png",
         "id": 217,
         "name": "Keratin",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/218.png",
+        "icon": "/resources/items/218.png",
         "id": 218,
         "name": "Metal Sign",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/219.png",
+        "icon": "/resources/items/219.png",
         "id": 219,
         "name": "Holo-Scope Attachment",
         "type": "Attachment",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/220.png",
+        "icon": "/resources/items/220.png",
         "id": 220,
         "name": "Laser Attachment",
         "type": "Attachment",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/221.png",
+        "icon": "/resources/items/221.png",
         "id": 221,
         "name": "Wooden Billboard",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/222.png",
+        "icon": "/resources/items/222.png",
         "id": 222,
         "name": "Flak Leggings",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/223.png",
+        "icon": "/resources/items/223.png",
         "id": 223,
         "name": "Flak Chestpeice",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/224.png",
+        "icon": "/resources/items/224.png",
         "id": 224,
         "name": "Flak Helmet",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/225.png",
+        "icon": "/resources/items/225.png",
         "id": 225,
         "name": "Flak Boots",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/226.png",
+        "icon": "/resources/items/226.png",
         "id": 226,
         "name": "Flak Gauntlets",
         "type": "Clothes",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/227.png",
+        "icon": "/resources/items/227.png",
         "id": 227,
         "name": "Enduro Stew",
         "type": "Food",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/228.png",
+        "icon": "/resources/items/228.png",
         "id": 228,
         "name": "Lazarus Chowder",
         "type": "Food",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/229.png",
+        "icon": "/resources/items/229.png",
         "id": 229,
         "name": "Calien Soup",
         "type": "Food",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/230.png",
+        "icon": "/resources/items/230.png",
         "id": 230,
         "name": "Fria Curry",
         "type": "Food",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/231.png",
+        "icon": "/resources/items/231.png",
         "id": 231,
         "name": "Focal Chili",
         "type": "Food",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/232.png",
+        "icon": "/resources/items/232.png",
         "id": 232,
         "name": "Savaroot",
         "type": "Consumable",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/233.png",
+        "icon": "/resources/items/233.png",
         "id": 233,
         "name": "Longrass",
         "type": "Consumable",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/234.png",
+        "icon": "/resources/items/234.png",
         "id": 234,
         "name": "Rockarrot",
         "type": "Consumable",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/235.png",
+        "icon": "/resources/items/235.png",
         "id": 235,
         "name": "Azulberry Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/236.png",
+        "icon": "/resources/items/236.png",
         "id": 236,
         "name": "Tintoberry Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/237.png",
+        "icon": "/resources/items/237.png",
         "id": 237,
         "name": "Mejoberry Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/238.png",
+        "icon": "/resources/items/238.png",
         "id": 238,
         "name": "Narcoberry Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/239.png",
+        "icon": "/resources/items/239.png",
         "id": 239,
         "name": "Stimberry Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/240.png",
+        "icon": "/resources/items/240.png",
         "id": 240,
         "name": "Savaroot Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/241.png",
+        "icon": "/resources/items/241.png",
         "id": 241,
         "name": "Longrass Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/242.png",
+        "icon": "/resources/items/242.png",
         "id": 242,
         "name": "Rockarrot Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/243.png",
+        "icon": "/resources/items/243.png",
         "id": 243,
         "name": "Metal Billboard",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/244.png",
+        "icon": "/resources/items/244.png",
         "id": 244,
         "name": "Fabricated Pistol",
         "type": "Weapon",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/245.png",
+        "icon": "/resources/items/245.png",
         "id": 245,
         "name": "Advanced Bullet",
         "type": "Ammo",
         "stack": 50
     },
     {
-        "icon": "//space.ark-survival.net/icons/246.png",
+        "icon": "/resources/items/246.png",
         "id": 246,
         "name": "Advanced Rifle Bullet",
         "type": "Ammo",
         "stack": 50
     },
     {
-        "icon": "//space.ark-survival.net/icons/247.png",
+        "icon": "/resources/items/247.png",
         "id": 247,
         "name": "Rocket Propelled Grenade",
         "type": "Ammo",
         "stack": 50
     },
     {
-        "icon": "//space.ark-survival.net/icons/248.png",
+        "icon": "/resources/items/248.png",
         "id": 248,
         "name": "Medium Crop Plot",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/249.png",
+        "icon": "/resources/items/249.png",
         "id": 249,
         "name": "Large Crop Plot",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/250.png",
+        "icon": "/resources/items/250.png",
         "id": 250,
         "name": "Rare Floower",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/251.png",
+        "icon": "/resources/items/251.png",
         "id": 251,
         "name": "Rare Mushroom",
         "type": "Resource",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/252.png",
+        "icon": "/resources/items/252.png",
         "id": 252,
         "name": "Raw Prime Meat",
         "type": "Food",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/253.png",
+        "icon": "/resources/items/253.png",
         "id": 253,
         "name": "Cooked Prime Meat",
         "type": "Food",
         "stack": 30
     },
     {
-        "icon": "//space.ark-survival.net/icons/254.png",
+        "icon": "/resources/items/254.png",
         "id": 254,
         "name": "Battle Tartare",
         "type": "Food",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/255.png",
+        "icon": "/resources/items/255.png",
         "id": 255,
         "name": "Shadow Steak Suate",
         "type": "Food",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/256.png",
+        "icon": "/resources/items/256.png",
         "id": 256,
         "name": "Rockwell Recipes: Enduro Stew",
         "type": "Recipe",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/257.png",
+        "icon": "/resources/items/257.png",
         "id": 257,
         "name": "Rockwell Recipes: Lazarus Chowder",
         "type": "Recipe",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/258.png",
+        "icon": "/resources/items/258.png",
         "id": 258,
         "name": "Rockwell Recipes: Calien Soup",
         "type": "Recipe",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/259.png",
+        "icon": "/resources/items/259.png",
         "id": 259,
         "name": "Rockwell Recipes: Fria Curry",
         "type": "Recipe",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/260.png",
+        "icon": "/resources/items/260.png",
         "id": 260,
         "name": "Rockwell Recipes: Focal Chili",
         "type": "Recipe",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/261.png",
+        "icon": "/resources/items/261.png",
         "id": 261,
         "name": "Rockwell Recipes: Battle Tartare",
         "type": "Recipe",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/262.png",
+        "icon": "/resources/items/262.png",
         "id": 262,
         "name": "Rockwell Recipes: Shadow Steak Suate",
         "type": "Recipe",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/263.png",
+        "icon": "/resources/items/263.png",
         "id": 263,
         "name": "Notes on Rockwell Recipes",
         "type": "Recipe",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/264.png",
+        "icon": "/resources/items/264.png",
         "id": 264,
         "name": "Wall Sign",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/265.png",
+        "icon": "/resources/items/265.png",
         "id": 265,
         "name": "Metal Dinosaur Gateway",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/266.png",
+        "icon": "/resources/items/266.png",
         "id": 266,
         "name": "Metal Dinosaur Gate",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/267.png",
+        "icon": "/resources/items/267.png",
         "id": 267,
         "name": "Shotgun",
         "type": "Weapon",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/268.png",
+        "icon": "/resources/items/268.png",
         "id": 268,
         "name": "Simple Shotgun Ammo",
         "type": "Ammo",
         "stack": 50
     },
     {
-        "icon": "//space.ark-survival.net/icons/269.png",
+        "icon": "/resources/items/269.png",
         "id": 269,
         "name": "Metal Wall Sign",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/270.png",
+        "icon": "/resources/items/270.png",
         "id": 270,
         "name": "Amarberry Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/271.png",
+        "icon": "/resources/items/271.png",
         "id": 271,
         "name": "Azulberry Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/272.png",
+        "icon": "/resources/items/272.png",
         "id": 272,
         "name": "Tintoberry Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/273.png",
+        "icon": "/resources/items/273.png",
         "id": 273,
         "name": "Narcoberry Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/274.png",
+        "icon": "/resources/items/274.png",
         "id": 274,
         "name": "Stimberry Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/275.png",
+        "icon": "/resources/items/275.png",
         "id": 275,
         "name": "Mejoberry Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/276.png",
+        "icon": "/resources/items/276.png",
         "id": 276,
         "name": "Citronal Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/277.png",
+        "icon": "/resources/items/277.png",
         "id": 277,
         "name": "Savaroot Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/278.png",
+        "icon": "/resources/items/278.png",
         "id": 278,
         "name": "Longrass Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/279.png",
+        "icon": "/resources/items/279.png",
         "id": 279,
         "name": "Rockarrot Seed",
         "type": "Seed",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/280.png",
+        "icon": "/resources/items/280.png",
         "id": 280,
         "name": "Flag",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/281.png",
+        "icon": "/resources/items/281.png",
         "id": 281,
         "name": "Hunter Hat Skin",
         "type": "Skin",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/282.png",
+        "icon": "/resources/items/282.png",
         "id": 282,
         "name": "Rex Stomped Glasses Saddle Skin",
         "type": "Skin",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/283.png",
+        "icon": "/resources/items/283.png",
         "id": 283,
         "name": "Spyglass",
         "type": "Tool",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/284.png",
+        "icon": "/resources/items/284.png",
         "id": 284,
         "name": "Spider Flag",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/285.png",
+        "icon": "/resources/items/285.png",
         "id": 285,
         "name": "Phiomia Saddle",
         "type": "Saddle",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/286.png",
+        "icon": "/resources/items/286.png",
         "id": 286,
         "name": "Medium Dinosaur Feces",
         "type": "Misc",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/287.png",
+        "icon": "/resources/items/287.png",
         "id": 287,
         "name": "Large Dinoasaur Feces",
         "type": "Misc",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/288.png",
+        "icon": "/resources/items/288.png",
         "id": 288,
         "name": "Brontosaurus Egg",
         "type": "Egg",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/289.png",
+        "icon": "/resources/items/289.png",
         "id": 289,
         "name": "Parasaur Egg",
         "type": "Egg",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/290.png",
+        "icon": "/resources/items/290.png",
         "id": 290,
         "name": "Raptor Egg",
         "type": "Egg",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/291.png",
+        "icon": "/resources/items/291.png",
         "id": 291,
         "name": "T-Rex Egg",
         "type": "Egg",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/292.png",
+        "icon": "/resources/items/292.png",
         "id": 292,
         "name": "Triceratops Egg",
         "type": "Egg",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/293.png",
+        "icon": "/resources/items/293.png",
         "id": 293,
         "name": "Parasaur ARK Founder Saddle Skin",
         "type": "Skin",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/294.png",
+        "icon": "/resources/items/294.png",
         "id": 294,
         "name": "Dodo Egg",
         "type": "Egg",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/295.png",
+        "icon": "/resources/items/295.png",
         "id": 295,
         "name": "Preserving Bin",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/296.png",
+        "icon": "/resources/items/296.png",
         "id": 296,
         "name": "Metal Spike Wall",
         "type": "Structure",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/297.png",
+        "icon": "/resources/items/297.png",
         "id": 297,
         "name": "Cooked Meat Jerky",
         "type": "Food",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/298.png",
+        "icon": "/resources/items/298.png",
         "id": 298,
         "name": "Prime Meat Jerky",
         "type": "Food",
         "stack": 100
     },
     {
-        "icon": "//space.ark-survival.net/icons/299.png",
+        "icon": "/resources/items/299.png",
         "id": 299,
         "name": "Rex Bone Helmet Skin",
         "type": "Skin",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/300.png",
+        "icon": "/resources/items/300.png",
         "id": 300,
         "name": "Nerdry Glasses Skin",
         "type": "Skin",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/301.png",
+        "icon": "/resources/items/301.png",
         "id": 301,
         "name": "Rockwell Recipes: Medical Brew",
         "type": "Recipe",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/302.png",
+        "icon": "/resources/items/302.png",
         "id": 302,
         "name": "Rockwell Recipes: Energy Brew",
         "type": "Recipe",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/303.png",
+        "icon": "/resources/items/303.png",
         "id": 303,
         "name": "Spino Saddel",
         "type": "Recipe",
         "stack": 1
     },
     {
-        "icon": "//space.ark-survival.net/icons/304.png",
+        "icon": "/resources/items/304.png",
         "id": 304,
         "name": "Rockwell Recipes: Meat Jerky",
         "type": "Recipe",
