@@ -188,6 +188,8 @@ h2 small {
   top: 10px;
   text-align: center;
   padding: 30px 0px 40px 0px;
+  border-top: 1px solid #eee;
+  margin-top: 30px;
 }
 .github a {
   opacity: 0.5;
