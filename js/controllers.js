@@ -66,6 +66,8 @@ angular.module('app')
         self.query = '';
         self.items = [];
         self.types = [];
+        self.quality = 100;
+        self.quantity = 1;
 
         self.items = items;
         self.types = self.extractTypes(self.items);

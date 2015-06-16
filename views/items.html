@@ -1,15 +1,31 @@
+<h2>
+    Items
+    <small class="u-pull-right">cheat giveitemnum <b>id</b> <b>quantity</b> <b>quality</b> false</small>
+</h2>
+
+<hr>
+
+<div class="row">
+    <div class="eight columns">
+        <label>Search item by name</label>
+        <input type="text" class="u-full-width"
+            ng-model="items.query" focus />
+    </div>
+    <div class="two columns">
+        <label>Quality</label>
+        <input type="text" class="u-full-width"
+            ng-model="items.quality" focus />
+    </div>
+    <div class="two columns">
+        <label>Quantity</label>
+        <input type="text" class="u-full-width"
+            ng-model="items.quantity" focus />
+    </div>
+</div>
+
 <div class="row">
     <div class="twelve columns">
-        <h2>
-            Items
-            <small class="u-pull-right">cheat giveitemnum <b>id</b> <b>quantity</b> <b>quality</b> false</small>
-        </h2>
-
-        <hr>
-
         <div>
-            <input type="text" class="u-full-width" ng-model="items.query" focus />
-
             <div class="u-pull-right">
                 <a href="#" ng-click="items.enableAllTypes()">All</a>
                     |
@@ -39,7 +55,7 @@
             <tbody>
                 <tr ng-repeat="item in items.items | filter: items.filter">
                     <td>
-                        <copy-box text="cheat giveitemnum {{ item.id }} 1 10 false"></copy-box>
+                        <copy-box text="cheat giveitemnum {{ item.id }} {{ items.quantity }} {{ items.quality }} false"></copy-box>
                         <img ng-src="{{ item.icon || 'http://placehold.it/60x60' }}" width="60">
                     </td>
                     <td>{{ item.id }}</td>
