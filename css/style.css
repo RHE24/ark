@@ -116,20 +116,6 @@ h2 small {
     color: #2bafd9;
 }
 
-.navbar .github {
-  position: relative;
-  float: right;
-  top: 10px;
-}
-.navbar .github a {
-  opacity: 0.5;
-}
-.navbar .github a:hover {
-  opacity: 1;
-}
-.navbar .github a img {
-  width: 50px;
-}
 .navbar .logo {
   float: left;
   margin-right: 20px;
@@ -193,6 +179,24 @@ h2 small {
 
 .thumbnail {
   width: 100%;
+}
+
+/*////////////////////////////////////////////////////////////////////////////*/
+
+.github {
+  position: relative;
+  top: 10px;
+  text-align: center;
+  padding: 30px 0px 40px 0px;
+}
+.github a {
+  opacity: 0.5;
+}
+.github a:hover {
+  opacity: 1;
+}
+.github a img {
+  width: 50px;
 }
 
 /*////////////////////////////////////////////////////////////////////////////*/
