@@ -50,36 +50,49 @@
         "type": "Land"
     },
     {
+        "id": "Sarco_Character_BP_C",
+        "name": "Sarco",
+        "type": "Land"
+    },
+    {
         "id": "Sauropod_Character_BP_C",
-        "name": "Brontosaurus"
+        "name": "Brontosaurus",
+        "type": "Land"
     },
     {
         "id": "Scorpion_Character_BP_C",
-        "name": "Scorpion"
+        "name": "Scorpion",
+        "type": "Land"
     },
     {
         "id": "Stego_Character_BP_C",
-        "name": "Stegosaurus"
+        "name": "Stegosaurus",
+        "type": "Land"
     },
     {
         "id": "BoaFrill_Character_BP_C",
-        "name": "Titanoboa"
+        "name": "Titanoboa",
+        "type": "Land"
     },
     {
         "id": "Rex_Character_BP_C",
-        "name": "T-Rex"
+        "name": "T-Rex",
+        "type": "Land"
     },
     {
         "id": "Trike_Character_BP_C",
-        "name": "Trike"
+        "name": "Trike",
+        "type": "Land"
     },
     {
         "id": "Turtle_Character_BP_C",
-        "name": "Turtle"
+        "name": "Turtle",
+        "type": "Land"
     },
     {
         "id": "Spino_Character_BP_C",
-        "name": "Spinosaurus"
+        "name": "Spinosaurus",
+        "type": "Land"
     },
     {
         "id": "Coel_Character_BP_C",
