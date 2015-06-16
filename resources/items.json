@@ -2126,5 +2126,77 @@
         "name": "Rockwell Recipes: Meat Jerky",
         "type": "Recipe",
         "stack": 1
+    },
+    {
+        "icon": null,
+        "id": 295,
+        "name": "Preserving Bin",
+        "type": "Structure",
+        "stack": 100
+    },
+    {
+        "icon": null,
+        "id": 296,
+        "name": "Metal Spike Wall",
+        "type": "Structure",
+        "stack": 100
+    },
+    {
+        "icon": null,
+        "id": 297,
+        "name": "Cooked Meat Jerky",
+        "type": "Food",
+        "stack": 30
+    },
+    {
+        "icon": null,
+        "id": 298,
+        "name": "Prime Meat Jerky",
+        "type": "Food",
+        "stack": 30
+    },
+    {
+        "icon": null,
+        "id": 299,
+        "name": "Rex Bone Helmet Skin",
+        "type": "Skin",
+        "stack": 1
+    },
+    {
+        "icon": null,
+        "id": 300,
+        "name": "Nerdy Glasses Skin",
+        "type": "Skin",
+        "stack": 1
+    },
+    {
+        "icon": null,
+        "id": 301,
+        "name": "Rockwell Recipes: Medical Brew",
+        "type": "Recipe",
+        "stack": 1
+    },
+
+    {
+        "icon": null,
+        "id": 302,
+        "name": "Rockwell Recipes: Energy Brew",
+        "type": "Recipe",
+        "stack": 1
+    },
+    {
+        "icon": null,
+        "id": 303,
+        "name": "Primitive Spino Saddle",
+        "type": "Saddle",
+        "stack": 1
+    },
+    {
+        "icon": null,
+        "id": 304,
+        "name": "Rockwell Recipes: Meat Jerky",
+        "type": "Recipe",
+        "stack": 1
     }
 ]
+

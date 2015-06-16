@@ -1,7 +1,46 @@
-<h1>items</h1>
+<div class="row">
+    <div class="twelve columns">
+        <h2>List of available items</h2>
 
-<ul>
-    <li ng-repeat="item in items.items">
-        {{ item.name }}
-    </li>
-</ul>
+        <hr>
+            <label>Search item by name</label>
+            <input type="text" class="u-full-width" ng-model="items.query" />
+
+            <div class="u-pull-right">
+                <a href="#" ng-click="items.enableAllTypes()">All</a>
+                    |
+                <a href="#" ng-click="items.disableAllTypes()">None</a>
+            </div>
+
+            <div class="types-list u-cf">
+                <label class="u-pull-left"
+                    ng-repeat="type in items.types">
+                    <input type="checkbox" ng-model="type.active"> {{ type.name }}
+                </label>
+            </div>
+        <hr>
+
+        <table class="u-full-width">
+            <thead>
+                <tr>
+                    <th>Preview</th>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Type</th>
+                    <th>Stack size</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="item in items.items | filter: items.filter">
+                    <th>
+                        <img ng-src="{{ item.icon || 'http://placehold.it/60x60' }}" width="60">
+                    </th>
+                    <td>{{ item.id }}</td>
+                    <td>{{ item.name }}</td>
+                    <td>{{ item.type }}</td>
+                    <td>{{ item.stack }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -15,11 +15,26 @@ angular.module('app', ['ng', 'ui.router'])
 })
 
 .run(function ($rootScope, $errorHandler) {
+    var loadingStart = function() {
+        $rootScope.loading = true;
+    };
+    var loadingStop = function() {
+        $rootScope.loading = false;
+    };
+
+    $rootScope.$on('$stateChangeStart', function () {
+        loadingStart();
+    });
+    $rootScope.$on('$stateChangeSuccess', function () {
+        loadingStop();
+    });
     $rootScope.$on('$stateChangeError', function () {
         $errorHandler.error(404);
+        loadingStop();
     });
     $rootScope.$on('$stateNotFound', function () {
         $errorHandler.error(404);
+        loadingStop();
     });
 })
 
