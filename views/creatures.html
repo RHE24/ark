@@ -1,0 +1,27 @@
+<div class="row">
+    <div class="twelve columns">
+        <h2>Creatures <small class="u-pull-right">cheat summon &lt;ID&gt;</small></h2>
+
+        <hr>
+            <label>Search creature by name</label>
+            <input type="text" class="u-full-width" ng-model="creatures.query" focus />
+        <hr>
+
+        <table class="u-full-width">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Type</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="creature in creatures.creatures | filter: creatures.filter">
+                    <td>{{ creature.id }}</td>
+                    <td>{{ creature.name }}</td>
+                    <td>{{ creature.type }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

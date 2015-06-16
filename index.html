@@ -11,11 +11,26 @@
     <script type="text/javascript" src="/js/routes.js"></script>
     <script type="text/javascript" src="/js/services.js"></script>
     <script type="text/javascript" src="/js/controllers.js"></script>
+    <script type="text/javascript" src="/js/directives.js"></script>
 </head>
 <body>
 
-    <div class="container">
-        <div class="page-spinner spinner" ng-show="loading"></div>
+    <div class="navbar">
+        <div class="container">
+            <div class="page-spinner spinner" ng-show="loading"></div>
+
+            <ul>
+                <li>
+                    <a ui-sref="items">Items</a>
+                </li>
+                <li>
+                    <a ui-sref="creatures">Creatures</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="container viewport">
         <div ui-view></div>
     </div>
 

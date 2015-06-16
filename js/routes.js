@@ -1,5 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 
+'use strict';
+
 angular.module('app')
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -15,7 +17,19 @@ angular.module('app')
                     return $items.getAll();
                 }
             }
-        });
+        })
+
+        .state('creatures', {
+            url: '/creatures',
+            templateUrl: '/views/creatures.html',
+            controller: 'creatures as creatures',
+            resolve: {
+                creatures: function($creatures) {
+                    return $creatures.getAll();
+                }
+            }
+        })
+    ;
 })
 
 ////////////////////////////////////////////////////////////////////////////////

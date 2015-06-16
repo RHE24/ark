@@ -1,10 +1,10 @@
 <div class="row">
     <div class="twelve columns">
-        <h2>List of available items</h2>
+        <h2>Items <small class="u-pull-right">cheat giveitemnum &lt;ID&gt; &lt;QUANTITY&gt; &lt;QUALITY&gt; false</small></h2>
 
         <hr>
             <label>Search item by name</label>
-            <input type="text" class="u-full-width" ng-model="items.query" />
+            <input type="text" class="u-full-width" ng-model="items.query" focus />
 
             <div class="u-pull-right">
                 <a href="#" ng-click="items.enableAllTypes()">All</a>

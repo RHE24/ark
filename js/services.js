@@ -1,5 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 
+'use strict';
+
 angular.module('app')
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -41,9 +43,19 @@ angular.module('app')
     var self = this;
 
     self.getAll = function() {
-
         return $httpResponseResolver
             .resolve($http.get('/resources/items.json'));
+    };
+})
+
+////////////////////////////////////////////////////////////////////////////////
+
+.service('$creatures', function($http, $httpResponseResolver) {
+    var self = this;
+
+    self.getAll = function() {
+        return $httpResponseResolver
+            .resolve($http.get('/resources/creatures.json'));
     };
 })
 

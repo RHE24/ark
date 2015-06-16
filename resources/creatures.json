@@ -1,0 +1,87 @@
+[
+    {
+        "id": "Ankylo_Character_BP_C",
+        "name": "Ankylo",
+        "type": "Land"
+    },
+    {
+        "id": "SpiderS_Character_BP_C",
+        "name": "Araneo",
+        "type": "Land"
+    },
+    {
+        "id": "Carno_Character_BP_C",
+        "name": "Carno",
+        "type": "Land"
+    },
+    {
+        "id": "Dilo_Character_BP_C",
+        "name": "Dilo",
+        "type": "Land"
+    },
+    {
+        "id": "Dodo_Character_BP_C",
+        "name": "Dodo",
+        "type": "Land"
+    },
+    {
+        "id": "Mammoth_Character_BP_C",
+        "name": "Mammoth",
+        "type": "Land"
+    },
+    {
+        "id": "Para_Character_BP_C",
+        "name": "Parasaur",
+        "type": "Land"
+    },
+    {
+        "id": "Phiomia_Character_BP_C",
+        "name": "Phioma",
+        "type": "Land"
+    },
+    {
+        "id": "Raptor_Character_BP_C",
+        "name": "Raptor",
+        "type": "Land"
+    },
+    {
+        "id": "Saber_Character_BP_C",
+        "name": "Saber",
+        "type": "Land"
+    },
+    {
+        "id": "Coel_Character_BP_C",
+        "name": "Coel",
+        "type": "Water"
+    },
+    {
+        "id": "Megalodon_Character_BP_C",
+        "name": "Megalodon",
+        "type": "Water"
+    },
+    {
+        "id": "Piranha_Character_BP_C",
+        "name": "Piranha",
+        "type": "Water"
+    },
+    {
+        "id": "Argent_Character_BP_C",
+        "name": "Argentavis",
+        "type": "Air"
+    },
+    {
+        "id": "Bat_Character_BP_C",
+        "name": "Onyc",
+        "type": "Air"
+    },
+    {
+        "id": "Ptero_Character_BP_C",
+        "name": "Ptero",
+        "type": "Air"
+    },
+    {
+        "id": "SpiderL_Character_BP_C",
+        "name": "Broodmother Lyrix",
+        "type": "Boss"
+    }
+]

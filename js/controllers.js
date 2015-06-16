@@ -1,5 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 
+'use strict';
+
 angular.module('app')
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -61,13 +63,31 @@ angular.module('app')
     };
 
     (self.init = function() {
-
         self.query = '';
         self.items = [];
         self.types = [];
 
         self.items = items;
         self.types = self.extractTypes(self.items);
+    })();
+})
+
+////////////////////////////////////////////////////////////////////////////////
+
+.controller('creatures', function(creatures) {
+    var self = this;
+
+    self.filter = function(creature) {
+        var re = new RegExp(self.query, 'gi');
+
+        return creature.name.match(re) ? true : false;
+    };
+
+    (self.init = function() {
+        self.query = '';
+        self.creatures = [];
+
+        self.creatures = creatures;
     })();
 })
 
