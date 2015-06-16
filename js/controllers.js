@@ -6,13 +6,13 @@ angular.module('app')
 
 ////////////////////////////////////////////////////////////////////////////////
 
-.controller('main', function($rootScope) {
-    $rootScope.loading = true;
+.controller('main', function($rootScope, $timeout) {
+    $rootScope.loading = false;
 })
 
 ////////////////////////////////////////////////////////////////////////////////
 
-.controller('items', function(items) {
+.controller('items', function($mousetrap, $scope, items) {
     var self = this;
 
     self.extractTypes = function(items) {
@@ -69,12 +69,21 @@ angular.module('app')
 
         self.items = items;
         self.types = self.extractTypes(self.items);
+
+        $mousetrap.bind('esc', function() {
+            self.query = '';
+            $scope.$apply();
+        });
+        $mousetrap.bind(['command+f', 'ctrl+f'], function(e) {
+            e.preventDefault();
+            angular.element('[focus]').focus();
+        });
     })();
 })
 
 ////////////////////////////////////////////////////////////////////////////////
 
-.controller('creatures', function(creatures) {
+.controller('creatures', function($mousetrap, $scope, creatures) {
     var self = this;
 
     self.filter = function(creature) {
@@ -88,8 +97,21 @@ angular.module('app')
         self.creatures = [];
 
         self.creatures = creatures;
+
+        $mousetrap.bind('esc', function() {
+            self.query = '';
+            $scope.$apply();
+        });
+        $mousetrap.bind(['command+f', 'ctrl+f'], function(e) {
+            e.preventDefault();
+            angular.element('[focus]').focus();
+        });
     })();
 })
+
+////////////////////////////////////////////////////////////////////////////////
+
+.controller('maps', function() {})
 
 ////////////////////////////////////////////////////////////////////////////////
 

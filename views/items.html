@@ -1,9 +1,13 @@
 <div class="row">
     <div class="twelve columns">
-        <h2>Items <small class="u-pull-right">cheat giveitemnum &lt;ID&gt; &lt;QUANTITY&gt; &lt;QUALITY&gt; false</small></h2>
+        <h2>
+            Items
+            <small class="u-pull-right">cheat giveitemnum <b>id</b> <b>quantity</b> <b>quality</b> false</small>
+        </h2>
 
         <hr>
-            <label>Search item by name</label>
+
+        <div>
             <input type="text" class="u-full-width" ng-model="items.query" focus />
 
             <div class="u-pull-right">
@@ -18,6 +22,8 @@
                     <input type="checkbox" ng-model="type.active"> {{ type.name }}
                 </label>
             </div>
+        </div>
+
         <hr>
 
         <table class="u-full-width">

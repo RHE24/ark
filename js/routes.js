@@ -29,6 +29,12 @@ angular.module('app')
                 }
             }
         })
+
+        .state('maps', {
+            url: '/maps',
+            templateUrl: '/views/maps.html',
+            controller: 'maps as maps'
+        })
     ;
 })
 

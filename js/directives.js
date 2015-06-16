@@ -10,7 +10,7 @@ angular.module('app')
     return {
         restrict: 'A',
         controller: function($element) {
-            $element[0].focus();
+            $element.focus();
         }
     };
 })

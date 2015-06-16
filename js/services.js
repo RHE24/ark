@@ -39,6 +39,27 @@ angular.module('app')
 
 ////////////////////////////////////////////////////////////////////////////////
 
+.service('$mousetrap', function($rootScope) {
+    var self = this;
+    self.bind = Mousetrap.bind;
+    self.unbindAll = function() {
+        Mousetrap.reset();
+    };
+
+    Mousetrap.stopCallback = function() {
+        return false;
+    };
+
+    (function() {
+        $rootScope.$on('$stateChangeStart', self.unbindAll);
+        $rootScope.$on('$stateChangeSuccess', self.unbindAll);
+        $rootScope.$on('$stateChangeError', self.unbindAll);
+        $rootScope.$on('$stateNotFound', self.unbindAll);
+    })();
+})
+
+////////////////////////////////////////////////////////////////////////////////
+
 .service('$items', function($http, $httpResponseResolver) {
     var self = this;
 
