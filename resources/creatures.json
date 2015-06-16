@@ -50,6 +50,38 @@
         "type": "Land"
     },
     {
+        "id": "Sauropod_Character_BP_C",
+        "name": "Brontosaurus"
+    },
+    {
+        "id": "Scorpion_Character_BP_C",
+        "name": "Scorpion"
+    },
+    {
+        "id": "Stego_Character_BP_C",
+        "name": "Stegosaurus"
+    },
+    {
+        "id": "BoaFrill_Character_BP_C",
+        "name": "Titanoboa"
+    },
+    {
+        "id": "Rex_Character_BP_C",
+        "name": "T-Rex"
+    },
+    {
+        "id": "Trike_Character_BP_C",
+        "name": "Trike"
+    },
+    {
+        "id": "Turtle_Character_BP_C",
+        "name": "Turtle"
+    },
+    {
+        "id": "Spino_Character_BP_C",
+        "name": "Spinosaurus"
+    },
+    {
         "id": "Coel_Character_BP_C",
         "name": "Coel",
         "type": "Water"
