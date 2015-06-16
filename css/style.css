@@ -81,6 +81,7 @@ h2 small {
 .navbar ul {
     padding: 0px;
     margin: 0px;
+    float: left;
 }
 .navbar ul li {
     margin: 0px;
@@ -102,12 +103,27 @@ h2 small {
     color: #2bafd9;
 }
 
+.navbar .github {
+  position: relative;
+  float: right;
+  top: 10px;
+}
+.navbar .github a {
+  opacity: 0.5;
+}
+.navbar .github a:hover {
+  opacity: 1;
+}
+.navbar .github a img {
+  width: 50px;
+}
+
 /*////////////////////////////////////////////////////////////////////////////*/
 
 .page-spinner {
     position: absolute;
     top: -75px;
-    right: 0px;
+    right: 70px;
     width: 20px;
     height: 20px;
 }
