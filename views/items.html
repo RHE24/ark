@@ -26,7 +26,7 @@
 
         <hr>
 
-        <table class="u-full-width">
+        <table class="u-full-width items-table">
             <thead>
                 <tr>
                     <th>Preview</th>
@@ -38,9 +38,12 @@
             </thead>
             <tbody>
                 <tr ng-repeat="item in items.items | filter: items.filter">
-                    <th>
+                    <td>
+                        <div class="copy" contenteditable>
+                            cheat giveitemnum {{ item.id }} 1 100 false
+                        </div>
                         <img ng-src="{{ item.icon || 'http://placehold.it/60x60' }}" width="60">
-                    </th>
+                    </td>
                     <td>{{ item.id }}</td>
                     <td>{{ item.name }}</td>
                     <td>{{ item.type }}</td>

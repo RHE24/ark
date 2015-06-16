@@ -188,7 +188,7 @@ h2 small {
   top: 10px;
   text-align: center;
   padding: 30px 0px 40px 0px;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #ddd;
   margin-top: 30px;
 }
 .github a {
@@ -199,6 +199,29 @@ h2 small {
 }
 .github a img {
   width: 50px;
+}
+
+/*////////////////////////////////////////////////////////////////////////////*/
+
+table {
+  position: relative;
+}
+table tr {
+  width: auto;
+  height: auto;
+}
+
+td .copy {
+  position: absolute;
+  display: none;
+  left: 0px;
+  width: 100%;
+  background: #eee;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+tr:hover td .copy {
+  display: block;
 }
 
 /*////////////////////////////////////////////////////////////////////////////*/
