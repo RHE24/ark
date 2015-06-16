@@ -217,11 +217,11 @@ td .copy {
   left: 0px;
   width: 100%;
   background: #eee;
-  padding: 10px;
   border: 1px solid #ddd;
+  font-size: 1.2em;
 }
 tr:hover td .copy {
-  display: block;
+  display: inline-block;
 }
 
 /*////////////////////////////////////////////////////////////////////////////*/

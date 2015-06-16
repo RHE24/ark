@@ -17,4 +17,22 @@ angular.module('app')
 
 ////////////////////////////////////////////////////////////////////////////////
 
+.directive('copyBox', function() {
+    return {
+        restrict: 'E',
+        template: '<input type="text" class="copy" ng-dblclick="selectText()" value="{{ text }}" />',
+        scope: {
+            text: '@'
+        },
+        replace: true,
+        controller: function($scope, $element) {
+            $scope.selectText = function() {
+                $element.select();
+            };
+        }
+    }
+});
+
+////////////////////////////////////////////////////////////////////////////////
+
 ;

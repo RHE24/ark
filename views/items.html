@@ -39,9 +39,7 @@
             <tbody>
                 <tr ng-repeat="item in items.items | filter: items.filter">
                     <td>
-                        <div class="copy" contenteditable>
-                            cheat giveitemnum {{ item.id }} 1 100 false
-                        </div>
+                        <copy-box text="cheat giveitemnum {{ item.id }} 1 10 false"></copy-box>
                         <img ng-src="{{ item.icon || 'http://placehold.it/60x60' }}" width="60">
                     </td>
                     <td>{{ item.id }}</td>

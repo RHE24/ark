@@ -21,9 +21,7 @@
             <tbody>
                 <tr ng-repeat="creature in creatures.creatures | filter: creatures.filter">
                     <td>
-                        <div class="copy" contenteditable>
-                            cheat summon {{ creature.id }}
-                        </div>
+                        <copy-box text="cheat summon {{ creature.id }}"></copy-box>
                         {{ creature.id }}
                     </td>
                     <td>{{ creature.name }}</td>
