@@ -123,10 +123,19 @@ h2 small {
 
 .page-spinner {
     position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 20px;
+    height: 20px;
+}
+
+@media (min-width: 550px) {
+  .page-spinner {
     top: -75px;
     right: 70px;
     width: 20px;
     height: 20px;
+  }
 }
 
 /*////////////////////////////////////////////////////////////////////////////*/
