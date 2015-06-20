@@ -93,7 +93,7 @@ angular.module('app')
 
     self.getStatus = function() {
         return $httpResponseResolver
-            .resolve($http.get('/?server_status'));
+            .resolve($http.get('/server_status'));
     };
 })
 
