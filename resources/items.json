@@ -2197,6 +2197,41 @@
         "name": "Rockwell Recipes: Meat Jerky",
         "type": "Recipe",
         "stack": 1
+    },
+    {
+        "icon": null,
+        "id": 305,
+        "name": "Heavy Miner's Helmet",
+        "type": "Clothes",
+        "stack": 1
+    },
+    {
+        "icon": null,
+        "id": 306,
+        "name": "Vault",
+        "type": "Structure",
+        "stack": 100
+    },
+    {
+        "icon": null,
+        "id": 307,
+        "name": "Wooden Spike Wall",
+        "type": "Structure",
+        "stack": 100
+    },
+    {
+        "icon": null,
+        "id": 308,
+        "name": "Dino Glasses",
+        "type": "Skin",
+        "stack": 1
+    },
+    {
+        "icon": null,
+        "id": 309,
+        "name": "Bookshelf",
+        "type": "Structure",
+        "stack": 100
     }
 ]
 
