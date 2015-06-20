@@ -31,7 +31,24 @@ angular.module('app')
             };
         }
     }
-});
+})
+
+////////////////////////////////////////////////////////////////////////////////
+
+.directive('navbar', function() {
+    return {
+        restrict: 'A',
+        controller: function($document, $element) {
+            $document.on('scroll', function(e) {
+                if ($document.scrollTop() > 20) {
+                    $element.addClass('compact');
+                } else {
+                    $element.removeClass('compact');
+                }
+            });
+        }
+    };
+})
 
 ////////////////////////////////////////////////////////////////////////////////
 

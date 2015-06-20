@@ -19,7 +19,7 @@
 </head>
 <body>
 
-    <div class="navbar">
+    <div class="navbar" navbar>
         <div class="container">
             <div class="page-spinner" ng-show="loading">
                 <div class="spinner"></div>

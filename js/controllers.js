@@ -78,7 +78,7 @@ angular.module('app')
         });
         $mousetrap.bind(['command+f', 'ctrl+f'], function(e) {
             e.preventDefault();
-            angular.element('[focus]').focus();
+            $('[focus]').focus();
         });
     })();
 })
@@ -106,7 +106,7 @@ angular.module('app')
         });
         $mousetrap.bind(['command+f', 'ctrl+f'], function(e) {
             e.preventDefault();
-            angular.element('[focus]').focus();
+            $('[focus]').focus();
         });
     })();
 })
