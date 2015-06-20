@@ -117,4 +117,36 @@ angular.module('app')
 
 ////////////////////////////////////////////////////////////////////////////////
 
+.controller('server', function(status, $server, $moment, $interval, $scope) {
+    var self = this;
+
+    self.setup = function(status) {
+        self.status = status;
+    };
+
+    self.formatDuration = function(seconds) {
+        var d = $moment.duration(seconds, 'seconds');
+        return [d.hours(), 'h ', d.minutes(), 'm ago'].join('');;
+    };
+
+    self.update = function() {
+        $server.getStatus()
+            .then(function(data) {
+                self.setup(data);
+            });
+    };
+
+    (self.init = function() {
+        self.updater = $interval(self.update, 5000);
+
+        $scope.$on('$destroy', function() {
+            $interval.cancel(self.updater);
+        });
+
+        self.setup(status);
+    })();
+})
+
+////////////////////////////////////////////////////////////////////////////////
+
 ;

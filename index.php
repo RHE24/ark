@@ -1,58 +1,15 @@
-<!DOCTYPE html>
-<html ng-app="app" ng-controller="main">
-<head>
-    <title>Ark Survival Evolved</title>
-    <base href="/">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <link rel="shortcut icon" href="/img/icon.png" type="image/png">
-    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.16/angular.min.js"></script>
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.15/angular-ui-router.min.js"></script>
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mousetrap/1.4.6/mousetrap.min.js"></script>
-    <script type="text/javascript" src="/js/app.js"></script>
-    <script type="text/javascript" src="/js/routes.js"></script>
-    <script type="text/javascript" src="/js/services.js"></script>
-    <script type="text/javascript" src="/js/controllers.js"></script>
-    <script type="text/javascript" src="/js/directives.js"></script>
-</head>
-<body>
+<?php
 
-    <div class="navbar" navbar>
-        <div class="container">
-            <div class="page-spinner" ng-show="loading">
-                <div class="spinner"></div>
-            </div>
+    if (array_key_exists('server_status', $_GET)) {
+        $ip = "84.73.131.144:27015";
+        $status = json_decode(file_get_contents("http://arkservers.net/api/query/$ip"));
+        $status->info->Ip = $ip;
 
-            <div class="logo">
-                <a href="#" ui-sref="items">
-                    <img src="/img/icon.png">
-                </a>
-            </div>
+        header('Content-Type: application/json');
+        echo json_encode($status);
+        exit;
+    } else {
+        require('index.html');
+    }
 
-            <ul>
-                <li>
-                    <a href="#" ui-sref="items">Items</a>
-                </li>
-                <li>
-                    <a href="#" ui-sref="creatures">Creatures</a>
-                </li>
-                <li>
-                    <a href="#" ui-sref="maps">Maps</a>
-                </li>
-            </ul>
-        </div>
-    </div>
-
-    <div class="container viewport">
-        <div ui-view></div>
-        <div class="github">
-            <a href="https://github.com/maximkott/ark">
-                <img src="/img/github.png">
-            </a>
-        </div>
-    </div>
-
-</body>
-</html>
+?>

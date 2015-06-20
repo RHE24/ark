@@ -60,6 +60,12 @@ angular.module('app')
 
 ////////////////////////////////////////////////////////////////////////////////
 
+.factory('$moment', function() {
+    return window.moment;
+})
+
+////////////////////////////////////////////////////////////////////////////////
+
 .service('$items', function($http, $httpResponseResolver) {
     var self = this;
 
@@ -77,6 +83,17 @@ angular.module('app')
     self.getAll = function() {
         return $httpResponseResolver
             .resolve($http.get('/resources/creatures.json'));
+    };
+})
+
+////////////////////////////////////////////////////////////////////////////////
+
+.service('$server', function($http, $httpResponseResolver) {
+    var self = this;
+
+    self.getStatus = function() {
+        return $httpResponseResolver
+            .resolve($http.get('/?server_status'));
     };
 })
 

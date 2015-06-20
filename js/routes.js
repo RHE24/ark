@@ -35,6 +35,17 @@ angular.module('app')
             templateUrl: '/views/maps.html',
             controller: 'maps as maps'
         })
+
+        .state('server', {
+            url: '/server',
+            templateUrl: '/views/server.html',
+            controller: 'server as server',
+            resolve: {
+                status: function($server) {
+                    return $server.getStatus();
+                }
+            }
+        })
     ;
 })
 
