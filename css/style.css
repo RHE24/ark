@@ -155,7 +155,7 @@ h2 small {
 
   .navbar ul li.compact a {
     color: #2bafd9;
-    padding: 0px;
+    padding: 0px 10px;
     line-height: 30px;
     font-size: 0.7em;
     color: #ccc;
